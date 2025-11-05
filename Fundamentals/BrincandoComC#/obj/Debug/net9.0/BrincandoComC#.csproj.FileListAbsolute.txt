@@ -1,0 +1,15 @@
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\bin\Debug\net9.0\BrincandoComC#.exe
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\bin\Debug\net9.0\BrincandoComC#.deps.json
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\bin\Debug\net9.0\BrincandoComC#.runtimeconfig.json
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\bin\Debug\net9.0\BrincandoComC#.dll
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\bin\Debug\net9.0\BrincandoComC#.pdb
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.AssemblyInfoInputs.cache
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.AssemblyInfo.cs
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.csproj.CoreCompileInputs.cache
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.sourcelink.json
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.dll
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\refint\BrincandoComC#.dll
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.pdb
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\BrincandoComC#.genruntimeconfig.cache
+C:\Users\natan.oliveira\OneDrive - ITER PARTICIPACOES S.A\Documentos\EstudosNote\CSharp\Fundamentals\BrincandoComC#\obj\Debug\net9.0\ref\BrincandoComC#.dll
