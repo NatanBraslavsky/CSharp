@@ -3,7 +3,16 @@
     public string nome;
     public string artista;
     public int duracao;
-    public bool disponivel;
+    private bool disponivel;
+    public void EscreveDisponibilidade(bool value)
+    {
+        disponivel = value;
+    }
+
+    public bool LeDisponibilidade()
+    {
+        return disponivel;
+    }
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {nome}");
