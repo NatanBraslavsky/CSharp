@@ -1,24 +1,22 @@
 ﻿class Musica
 {
-    public string nome;
-    public string artista;
-    public int duracao;
-    private bool disponivel;
-    public void EscreveDisponibilidade(bool value)
-    {
-        disponivel = value;
+    public string Nome { get; set; }
+    public string Artista { get; set; }
+    public int Duracao { get; set; }
+    public bool Disponivel { get; set; }
+    public string DescricaoBanda { get 
+        {
+            return $"A banda {Nome} pertence à {Artista}";
+        } 
     }
 
-    public bool LeDisponibilidade()
-    {
-        return disponivel;
-    }
     public void ExibirFichaTecnica()
     {
-        Console.WriteLine($"Nome: {nome}");
-        Console.WriteLine($"Artista: {artista}");
-        Console.WriteLine($"Duração: {duracao}");
-        if (disponivel)
+        Console.WriteLine(DescricaoBanda);
+        Console.WriteLine($"Nome: {Nome}");
+        Console.WriteLine($"Artista: {Artista}");
+        Console.WriteLine($"Duração: {Duracao}");
+        if (Disponivel)
         {
             Console.WriteLine("Disponível nas plataformas de streaming.");
         }
