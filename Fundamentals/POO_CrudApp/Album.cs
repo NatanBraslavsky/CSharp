@@ -7,4 +7,11 @@
     {
         musicas.Add(musica);
     }
+    public void ExibirMusicaDoAlbum()
+    {
+        foreach (var musica in musicas)
+        {
+            Console.WriteLine($"Música: {musica}");
+        }
+    }
 }
