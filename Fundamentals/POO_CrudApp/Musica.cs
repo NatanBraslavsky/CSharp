@@ -4,6 +4,7 @@
     public string Artista { get; set; }
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
+    public Genero genero { get; set; }
     public string DescricaoBanda { get 
         {
             return $"A banda {Nome} pertence à {Artista}";
