@@ -10,10 +10,11 @@
     }
     public void ExibirMusicaDoAlbum()
     {
+        Console.WriteLine($"Músicas do Álbum: {Nome}\n");
         foreach (var musica in musicas)
         {
             Console.WriteLine($"Música: {musica.Nome}");
         }
-        Console.WriteLine($"Para ouvir esse álbum inteiro você precisara de {Duracao} segundos.");
+        Console.WriteLine($"\nPara ouvir esse álbum inteiro você precisara de {Duracao} segundos.\n");
     }
 }
