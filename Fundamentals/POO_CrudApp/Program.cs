@@ -1,18 +1,19 @@
-﻿Album albumTeste = new Album();
-albumTeste.Nome = "nomeAlbumTeste";
-Banda queen = new Banda();
-queen.Nome = "Queen";
+﻿Album albumTeste = new Album("nomeAlbumTeste");
+Banda queen = new Banda("Queen");
 
-Musica musica1 = new Musica(queen);
-musica1.Nome = "Musica Teste";
-musica1.Duracao = 300;
-musica1.Disponivel = true;
+Musica musica1 = new Musica(queen, "Musica Teste")
+{   
+    Duracao = 200,
+    Disponivel = true,
+};
 
+Musica musica2 = new Musica(queen, "Musica 2 Teste")
+{
+    Duracao = 355,
+    Disponivel = false,
+};
 
-Musica musica2 = new Musica(queen); 
-musica2.Nome = "Musica 2 Teste";
-musica2.Duracao = 200;
-musica2.Disponivel = false;
+musica1.ExibirFichaTecnica();
 
 albumTeste.AdicionarMusica(musica1);
 albumTeste.AdicionarMusica(musica2);
