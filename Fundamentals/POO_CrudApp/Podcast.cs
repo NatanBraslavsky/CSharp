@@ -5,7 +5,7 @@
         Host = host;
         Nome = nome;
     }
-    public int Host { get; set; }
-    public string Nome { get; set; }
+    public int Host { get; }
+    public string Nome { get; }
     
 }
